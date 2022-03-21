@@ -1,1 +1,1 @@
-# Artificial-Intelligent-Homework
+# artificial-intelligent
